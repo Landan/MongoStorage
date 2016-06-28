@@ -6,8 +6,6 @@
 //
 //
 
-
-import BSON
 import MongoKitten
 
 protocol DatabaseModel {
